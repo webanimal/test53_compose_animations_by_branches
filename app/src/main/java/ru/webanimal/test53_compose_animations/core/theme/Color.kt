@@ -1,4 +1,4 @@
-package ru.webanimal.test53_compose_animations.ui.theme
+package ru.webanimal.test53_compose_animations.core.theme
 
 import androidx.compose.ui.graphics.Color
 
